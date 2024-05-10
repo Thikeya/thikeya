@@ -4,7 +4,7 @@
 
 👨‍🎓 I have a degree in Software Engineering from the Federal University of Mato Grosso do Sul.
 
-🖥️ Currently, I'm working as a Backend Developer at the company Before IT. <img src="https://lh5.googleusercontent.com/v42yB0Q5VmW55jFBHU5mjANXvdE9I6F1N-0_AI4dgw0sClr0YbczRR_WyI_ZCaJzZYhPNAbCNxOmx-BbDWrVIqs=w16383" width="100" height="25">
+🖥️ Currently, I'm working as a Backend Developer at the company Before IT.
 
 👩🏻‍💻 I'm studying PHP, Laravel, and Data Structures.
 
